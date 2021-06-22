@@ -8,7 +8,7 @@ namespace MsBuildSample
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("chitti");
-            Console.WriteLine( "2.0");
+            Console.WriteLine( "1.0");
         }
     }
 }
