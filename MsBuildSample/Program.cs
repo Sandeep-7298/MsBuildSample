@@ -9,6 +9,7 @@ namespace MsBuildSample
             Console.WriteLine("Hello World!");
             Console.WriteLine("chitti");
             Console.WriteLine( "1.0");
+            Console.WriteLine("sandeep");
         }
     }
 }
